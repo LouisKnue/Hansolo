@@ -9,7 +9,6 @@
 3. Folgendes eingeben:
 ```
 ssh-keygen -t ed25519
-
-´´´
+```
 
 4. Danach den public Key unter einstellungen als SSH Key einfügen
