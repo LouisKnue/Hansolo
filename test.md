@@ -14,3 +14,13 @@ ssh-keygen -t ed25519
 ```
 
 4. Danach den public Key unter einstellungen als SSH Key einfügen
+
+
+### Git auf den PC installieren
+
+1. Powershell starten
+
+2. Folgendes eingeben:
+3. ```
+   winget install -e --id Git.Git
+   ```
