@@ -2,7 +2,7 @@
 
 ## Lokales Repository erstellen
 
-1.Auf Github mit seinem Konto anmelden
+1. Auf Github mit seinem Konto anmelden
 
 2. Powershell starten
 
