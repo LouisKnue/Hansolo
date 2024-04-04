@@ -58,3 +58,21 @@ ssh-keygen -t ed25519
 4. Mit ``` git remote add origin git@github.com:LouisKnue/Hansolo.git``` kann man dann die datei Hochladen und mit ``` git push -u origin main``` wird das ganze gepusht.
 
 5. Dann kannst du die Github seite neu Laden und alles ist fertig.
+
+
+
+## Zusammenfassung 
+### Commands
+```ls```
+Zeigt die jetzige Ordner strucktur an
+(Mit backslash und den Ordner namen kann man den genannten Ordner öffnen)
+(Man kann mehrere Ordner hintereinnder schreiben)
+#### Mit folgenden additions kann man folgende dinge machen
+-l gibt eine liste über mehr informationen preis
+-r gibt die Liste von Z-A aus
+indem man -lr eingibt hat man die beiden oberen commands zusammen
+
+
+## History
+Mit dem Befehl ```history``` kannst du die letzten eingaben wieder aufrufen und mit einer beliebigen zahl wieder aufrufen
+
